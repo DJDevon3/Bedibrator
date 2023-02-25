@@ -1,6 +1,8 @@
 # Bedibrator
 A custom designed Bed Calibrator PCB for the purpose of 3D Printer bed & gantry tramming.
 
+Based on the E-Leveler PCB by [CHEP on Youtube](https://www.youtube.com/watch?v=715Xop79Sus)
+
 [PCB schematic & board design available from OSHW here](https://oshwlab.com/djdevon3/bed-leveler_copy)
 
 [Link to Bedibrator YouTube Video Here](https://www.youtube.com/watch?v=AkGcRJ83Vnk)
